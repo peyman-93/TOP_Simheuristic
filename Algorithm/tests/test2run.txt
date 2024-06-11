@@ -1,0 +1,2 @@
+# instanceName | maxTime | firstParam | secondParam | seed | shortSim | longSim | variance
+p6.3.h	180	0.1	0.3	8634452	100	1000	1.0
